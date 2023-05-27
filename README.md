@@ -1,2 +1,3 @@
 # REACT-FIRST-WEBSITE
-Simple Website.
+
+A simple website using ReactJS, implemented with clean UI and interactive components for seamless user experience.
